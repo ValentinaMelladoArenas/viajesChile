@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+nav{
+    background-color: #3498DB;
+}
+.logoViajesChile{
+    text-decoration: none;
+    color: white;
+    margin: 0 10%;
+}
+.iconoNav{
+    height: 30px;
+    width: 30px;
+}
+.seccion1{
+    background-color: black;
+    color: white;
+}
+.logosDescripcion{
+    background-color: #02C0D1;
+    font-size: 25px;
+}
+.alineacionVertical{
+}
