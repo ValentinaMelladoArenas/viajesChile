@@ -2,9 +2,10 @@ body{
     margin: 0;
     border: 0;
     padding: 0;
+    font-family: 'Vazirmatn', sans-serif;
 }
 nav{
-    background-color: #3498DB;
+    background-color: #02C0D1;
 }
 .logoViajesChile{
     text-decoration: none;
@@ -33,4 +34,16 @@ nav{
 }
 .card-body{
     background-color: #02C0D1;
+}
+.seccion3{
+    background-color: black;
+    color: white;
+}
+footer{
+    background-color: #02C0D1;
+    color: white;
+}
+.iconosFooter{
+    font-size: 25px;
+    text-align: end;
 }
