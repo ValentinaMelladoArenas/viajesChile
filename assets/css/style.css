@@ -6,7 +6,7 @@ body{
 }
 /*Navegación*/
 nav{
-    background-color: black;
+    background-color: transparent;
 }
 .logoViajesChile{
     text-decoration: none;
@@ -52,11 +52,9 @@ footer{
     background-color: #02C0D1;
     color: white;
     padding: 50px;
-    text-align: center;
 }
 .iconosFooter{
     font-size: 25px;
     color: white;
 }
 /*Fin pie de página*/
-/*Botón regresar inicio*/

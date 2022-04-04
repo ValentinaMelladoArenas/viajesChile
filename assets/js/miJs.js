@@ -1,14 +1,9 @@
-$(document).ready(function(){
-    $("irArriba").on('click', function(event) {
-    if (this.hash !== "") {
-    event.preventDefault();
-    var hash = this.hash;
-    $('html, body').animate({
-    scrollTop: $(hash).offset().top
-    }, 800, function(){
-    window.location.hash = hash;
-    });
-    }
-    });
-    });
-    
+$(function(){
+    //Toogle
+    $('#icono1').dblclick(function(){
+        $('#texto1').show()
+      })
+      $('#icono1').click(function(){
+        $('.texto1').hide()
+      })
+  });  
